@@ -1,0 +1,4 @@
+
+variable "dashboard" {
+  type = any
+}
